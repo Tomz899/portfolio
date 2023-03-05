@@ -20,14 +20,14 @@ jekyll serve
 
 ## Project Structure
 
-├── \_config.yml # Jekyll configuration file
-├── \_includes # folder with header files
-├── \_layouts # folder with page layouts
-├── \_posts # folder with blog posts
-├── \_sass # folder with Sass files
-├── assets # folder with CSS, JS, and image files
-├── index.md # homepage
-└── README.md # README file
+- `_config.yml`: Jekyll configuration file.
+- `_includes`: Folder with header files.
+- `_layouts`: Folder with page layouts.
+- `_posts`: Folder with blog posts.
+- `_sass`: Folder with Sass files.
+- `assets`: Folder with CSS, JS, and image files.
+- `index.md`: Homepage file.
+- `README.md`: README file.
 
 ## Technologies Used
 
